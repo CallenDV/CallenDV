@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! My name is Callen, and I like:
+ - Art
+ - Coding
+ - Games
+ - Food
+ - And more!
 
-<!--
-**CallenDV/CallenDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently am extremely demotivated, so thank you to anyone who might try to help out on that.
 
-Here are some ideas to get you started:
+I know quite a few languages! For e.g.,
+I know everything of these: Scratch (All versions), HTML, CSS
+And I know parts of these: JS, C, C#, and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want me to start projects such as DiamondOS (mine on Scratch) or GalacticOS (also mine on scratch), then make sure to follow me here and on Scratch! Anyways, bye!
