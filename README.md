@@ -1,12 +1,16 @@
-### Hello! My name is CheeseDev, and I like:
- - Art
- - Coding
- - Games
- - Food
- - And more!
+### Ello, I'm CheeseDev! Take a look at my ReadMe's info.
 
-I know quite a few languages! For e.g.,
-I know everything of these: Scratch (All versions), HTML, CSS
-And I know parts of these: JS, C, C#, and C++
+<details>
+<summary>Hobbies</summary>
+ Art, Games, Coding, Food, etc.
+</details>
 
-If you want me to start projects such as DiamondOS2 (mine on Scratch) or GalacticOS (also mine on scratch), then make sure to follow me here and on Scratch! Anyways, bye!
+<details>
+<summary>Experience</summary>
+ JavaScript, HTML, C Family, CSS, Scratch
+</details>
+
+<details>
+<summary>Projects</summary>
+ DiamondOS2, DOSTV2, PrizGlobal, PrizVideo, Prizmarine (shutting down), Mayzer, etc.
+</details>
