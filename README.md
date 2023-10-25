@@ -15,6 +15,7 @@
 |     1| Javascript|
 |     2| C         |
 |     3| S1.4      |
+---
 Yes, Scratch is on there. I really do think it's good for certain people, especially if they just don't like text programming. I do prefer text programming, but I do occasionally use one of Scratch's mods like Penguinmod or Turbowarp.
 </details>
 
