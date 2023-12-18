@@ -1,11 +1,6 @@
 ### Ello, I'm CheeseDev! Take a look at my ReadMe's info.
 
 <details>
-<summary>GitHub Stats</summary>
- [![CheeseDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CallenDV)](https://github.com/CallenDV/github-readme-stats)
-</details>
-
-<details>
 <summary>Hobbies</summary>
  Art, Games, Coding, Food, etc.
 </details>
