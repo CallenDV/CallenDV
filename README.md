@@ -7,16 +7,13 @@
 
 <details>
 <summary>Experience</summary>
- JavaScript, HTML, C Family, CSS, Scratch
+         <a href="#experience"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"></a>
+        <a href="#experience"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"></a>
+        <a href="#experience"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"></a>
+        <a href="#experience"><img class="batchfile" src="https://img.shields.io/badge/BATCHFILE-404d59?style=for-the-badge&logo=windows"></a>
+        <a href="#experience"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"></a>
 
- Also, here's what languages I think are the top from what I've programmed before.
- | Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| C         |
-|     3| S1.4      |
----
-Yes, Scratch is on there. I really do think it's good for certain people, especially if they just don't like text programming. I do prefer text programming, but I do occasionally use one of Scratch's mods like Penguinmod or Turbowarp.
+ Also, I have experience with other things, but I couldn't find images for them. :(
 </details>
 
 <details>
