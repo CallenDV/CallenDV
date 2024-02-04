@@ -23,13 +23,8 @@ I enjoy most things a lot of people enjoy, so there isn't much to see here.
  * And a lot of other things I don't have the time to list.
 
 ## My Experience
-         <a href="#experience"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"></a>
-        <a href="#experience"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"></a>
-        <a href="#experience"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"></a>
-        <a href="#experience"><img class="batchfile" src="https://img.shields.io/badge/BATCHFILE-404d59?style=for-the-badge&logo=windows"></a>
-        <a href="#experience"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"></a>
 
- Also, I have experience with other things, but I couldn't find images for them. :(
+I am experienced with many programming languages, such as some ones you probably already know, like HTML5, JS, and CSS. I am also experienced with other ones, like Batch, and some others.
 
 ## Some of the Projects I helped make or make on my own
 
