@@ -14,6 +14,7 @@ Now, I've returned to the higher languages, like C and JS, to code in regularly.
 ## My Goals
 
 Right now, my current goal is to learn more languages, like Ruby, Rust, and also start trying out mobile apps. I am also trying to learn and improve on my current art styles, with my (much better artist) brother, Logan. 
+
 </details>
 
 <details>
