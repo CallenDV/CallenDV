@@ -2,6 +2,7 @@
 
 <details>
 <summary>Just a bit about me</details>
+
 ## Where my Passion for Coding Started
 
 It all started with me and my brother, Logan- on the family computer, him doing some computer related stuff. I couldn't mind but watch him, as he did this stuff that I had never seen before. I kinda just sat there. Once he left, I had gotten on the computer, seeing what this was. "Scratch". Interesting. Well, rather than using it, though, I read a bit on what it was, something called programming. Nice! But, rather than starting my coding career with that, it actually started with higher level programs like C! I watched and learned through videos on the Internet, and some articles, too. Interestingly, though, I actually started to go to lower languages as time went on, from C and programs like that to things like JS and HTML, and it was only until then I started using Scratch. I started making interactive Operating Systems, and then some games too, and then added animations on the side (I never really went through with it, though).
