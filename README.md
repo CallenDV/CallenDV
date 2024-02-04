@@ -1,7 +1,5 @@
 ### Ello, I'm CheeseDev! Take a look at sum stuff about me.
 
-<details>
-<summary>Just a bit about me</details>
 
 ## Where my Passion for Coding Started
 
