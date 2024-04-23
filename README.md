@@ -8,6 +8,9 @@
 | [PassPocket](https://xytrux.github.io/passpocket) | A simple, yet modern password manager. |
 | [BudgetCalc](https://callendv.github.io/BudgetCalc/) | A calculator that figures out your available budget. |
 | [Radium](https://github.com/CallenDV/radium) | A highly compact drive wiper. Good for things like floppy disks and low storage CDs. |
+| This isn't all of them, I promise. |
+
+Additionally, a couple of honourable mentions: DiamondOS, PepSearch, SuperManager
 
 ## Stuff about me
 
