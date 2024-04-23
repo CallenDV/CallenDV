@@ -7,7 +7,7 @@
 | [PrizVideo](https://prizvideo.github.io/PrizVideo-Main) | A fast, safe, and secure version of YouTube. |
 | [PassPocket](https://xytrux.github.io/passpocket) | A simple, yet modern password manager. |
 | [BudgetCalc](https://callendv.github.io/BudgetCalc/) | A calculator that figures out your available budget. |
-| [Radium](https://github.com/CallenDV/radium) | A highly compact drive wiper. Good forthings like floppy disks and low storage CDs. |
+| [Radium](https://github.com/CallenDV/radium) | A highly compact drive wiper. Good for things like floppy disks and low storage CDs. |
 
 ## Stuff about me
 
