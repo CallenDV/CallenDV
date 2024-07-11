@@ -14,4 +14,4 @@ Includes stuff like projects I'm working on and languages I code in.
 ![CheeseDev's Stats](https://github-readme-stats.vercel.app/api?username=callendv&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 
 ### Trophy Shelf
-[![trophy](https://github-profile-trophy.vercel.app/?username=callendv)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=callendv&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
