@@ -5,7 +5,7 @@ Hey! Welcome to my readme.
 ## Some basic info
 I'm a(n)...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;Artist;YouTuber)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programmer;Artist;YouTuber;Photographer)](https://git.io/typing-svg)
 
 Here's a bit more about me
  - What I'm currently working on: [PrizVideo](https://github.com/PrizVideo/PrizVideo-Main), [Fauxbox](https://github.com/fauxbox-network), and learning languages
