@@ -2,6 +2,9 @@
 
 Hey! Welcome to my readme.
 
+## What I'm doing
+![status](https://api.statusbadges.me/badge/status/908150004961652797?style=for-the-badge) ![playing](https://api.statusbadges.me/badge/playing/908150004961652797?style=for-the-badge) ![vscode](https://api.statusbadges.me/badge/vscode/908150004961652797?style=for-the-badge)
+
 ## Some basic info
 I'm a(n)...
 
